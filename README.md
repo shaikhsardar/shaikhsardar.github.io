@@ -2,4 +2,4 @@
 
 ## Greetings, I'm Shaikh Sardar Salim Final Year Computer Engineering Student form UniPune, 
 
-## Check out my Website["http://shaikhsardar.me"]
+## Check out my Website www.shaikhsardar.me
