@@ -11,7 +11,7 @@
 ## SIEM
 ## Security Operations Center
 ## Incident Response and Management
-## 
+
 ## Vulnerability Assessment
 ## Penetration Testing 
 ## Malware Detection
