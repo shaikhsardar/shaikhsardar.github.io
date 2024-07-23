@@ -8,6 +8,7 @@
 ## Certified Ethical Hacker 
 ## Cyber Security
 ## Information Security
+## Data Protection (DLP, Data Classification, DRM, IRM, Data Privacy, Data Security)
 ## SIEM
 ## Security Operations Center
 ## Incident Response and Management
