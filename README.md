@@ -1,7 +1,7 @@
 
 
 ## Greetings, I'm Sardar Shaikh, Cyber Security Consultant at PwC India.  
-## I'm Cyber Security and Open Source Enthusiast
+## I'm Cyber Security, Information Security and Open Source Enthusiast
 
 # My Skills:
 
